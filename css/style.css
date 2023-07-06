@@ -1,5 +1,26 @@
-/* .htwo{
+ /* .htwo{
       color:aqua;
       cursor: pointer;
       cursor: url("https://cdn.shopify.com/s/files/1/1061/1924/files/Thumbs_Up_Hand_Sign_Emoji.png?9898922749706957214"),auto;
       */
+ .container{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction: row-reverse;
+        height:500px;
+        border:1px solid red;
+          }
+          
+ .box{
+      background-color: blueviolet;
+      width:120px;
+      padding: 10px;
+      height:120px;
+      }
+ .boxxon{
+       background-color: blue;
+     }
+ .boxxing{
+         background-color: green;
+        }
